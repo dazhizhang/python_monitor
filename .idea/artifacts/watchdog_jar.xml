@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="watchdog:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/watchdog_jar</output-path>
+    <root id="archive" name="watchdog.jar">
+      <element id="module-output" name="watchdog" />
+    </root>
+  </artifact>
+</component>
